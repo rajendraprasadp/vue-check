@@ -6,7 +6,7 @@
         bg-green-500
         text-center text-white
         rounded-full
-        w-30
+        w-34
         h-34
       "
     >
